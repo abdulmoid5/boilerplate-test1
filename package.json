@@ -9,9 +9,10 @@
     "words"
   ],
   "license": "MIT",
+  "version":"1.1.2",
   "dependencies": {
-	"express": "^4.14.0",
-	"version":"0.1.2"
+	"express": "^4.14.0"
+	
 	
   },
   "main": "server.js",
